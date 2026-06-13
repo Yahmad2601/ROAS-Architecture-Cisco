@@ -20,9 +20,7 @@ Protocols: IEEE 802.1Q Encapsulation, VTP (VLAN Trunking Protocol), DHCP, ICMP
 
 🗺️ Topology Diagram
 
-Place an exported PNG diagram of your Packet Tracer topology below:
-
-[Network Topology](docs/network\_topology\_diagram.png)
+![alt text](docs/network_topology_diagram.png)
 
 
 
